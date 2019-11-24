@@ -11,4 +11,4 @@
 #### decending() - prints the data of tree in decending order
 #### spiral() - prints the data of tree in spiral form
 #### revlevel() - prints the tree level wise but in upside down manner
-#### rtllevel() - prints the data of tree level wise and data in right to left format
+#### rtllevel() - prints the data of tree level wise and data in right to left formatt
